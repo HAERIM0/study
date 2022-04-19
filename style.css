@@ -1,0 +1,139 @@
+.sidebar{
+   background-color: rgba(2, 158, 54, 0.439);
+   position:fixed;
+   left:0;
+   top:0;
+   bottom:0;
+   z-index:9999;
+   width:20rem;
+   padding:1rem;
+}
+
+.sidebar img{
+   width: 200px;
+   border-radius:70%;
+   display:block;
+   margin:0px auto;
+   position: relative;
+   top: 50px;
+   right:10px;
+}
+
+.Name {
+  list-style:none;
+  position:absolute;
+  top: 250px;
+  left:-10px;
+}
+
+.ssName{
+   list-style:none;
+   position:absolute;
+   top: 260px;
+   left:100px;
+}
+
+.eName{
+   list-style:none;
+   position:absolute;
+   top:257px;
+   left: 120px;
+}
+
+.sns{
+   list-style:none;
+   position:absolute;
+   top:530px;
+   left:-5px;
+}
+
+.sidebar_icons{
+   list-style:none;
+   color:rgb(1, 64, 20);
+}
+
+.sidebar_icons li{
+   padding:8px;
+   position:relative;
+   top: 320px;
+   left:-20px;
+}
+
+.sidebar_icons i{
+   letter-spacing: 15px;
+}
+
+.sns_icons{
+   list-style:none;
+   color:rgb(1, 64, 20);
+}
+
+.sns_icons li{
+   padding:8px;
+   position:relative;
+   top: 420px;
+   left: -20px;
+}
+
+.sns_icons i{
+   letter-spacing:15px;
+}
+
+.mainbox{
+   position:absolute;
+   font-size: 30px;
+   top: 70px;
+   left: 500px;
+}
+
+.ability{
+   position:absolute;
+   line-height: 35px;
+   top: 160px;
+   left: 485px;
+}
+
+.Language{
+   position:absolute;
+   list-style:none;
+   font-size: 30px;
+   left: 1000px;
+   top: 30px;
+}
+
+.Language_in{
+   position: absolute;
+   line-height: 35px;
+   top: 155px;
+   left:1020px;
+}
+
+.study{
+   position:absolute;
+   list-style:none;
+   font-size:30px;
+   top: 350px;
+   left:470px;
+}
+
+.study_in{
+   position:absolute;
+   line-height:35px;
+   top: 478px;
+   left:490px;
+}
+
+.Hobby{
+   position: absolute;
+   list-style:none;
+   font-size: 30px;
+   top: 350px;
+   left:1000px;
+}
+
+.Hobby_in{
+   position:absolute;
+   line-height: 35px;
+   top:470px;
+   left: 1020px;
+}
