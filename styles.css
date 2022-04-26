@@ -1,0 +1,12 @@
+#img_sun{
+   width: 200px;
+   top: 200px;
+   transition: 0.5s;
+}
+#img_sun:hover{
+   transform:translateX(100px);
+   fixe-direction:row; /*박스를 놓는 방향*/
+   justify-cintent:center; /*가로정렬*/
+   align-items:center; /*세로정렬*/
+   fixe-wrap:wrap; /*넘칠 때*/
+}
